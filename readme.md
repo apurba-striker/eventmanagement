@@ -11,7 +11,6 @@ This is a RESTful API for managing events, user participation, and handling wait
 
 ## Prerequisites
 - **Node.js**: >= 12.x
-- **MongoDB**: Ensure MongoDB is running locally or have access to a MongoDB instance.
 
 ## Installation
 
