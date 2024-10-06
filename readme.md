@@ -59,7 +59,6 @@ This is a RESTful API for managing events, user participation, and handling wait
     "userId": "user123"
   }
  ```
-
  ### 3. **Remove a Participant**
 
 - **URL**: `/events/remove`
@@ -70,7 +69,9 @@ This is a RESTful API for managing events, user participation, and handling wait
     "eventId": "event-id",
     "userId": "user123"
   }
-  ```
+
+
+ 
   ### 4. **View Participants**
 
 - **URL**: `/events/:eventId/participants`
