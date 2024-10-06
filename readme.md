@@ -58,7 +58,7 @@ This is a RESTful API for managing events, user participation, and handling wait
     "eventId": "event-id",
     "userId": "user123"
   }
- ```
+  ```
 
 ### 3. **Remove a Participant**
 
