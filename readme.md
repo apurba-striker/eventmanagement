@@ -17,8 +17,8 @@ This is a RESTful API for managing events, user participation, and handling wait
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/event-management-system.git
-   cd event-management-system
+   git clone https://github.com/apurba-striker/eventmanagement.git
+   cd eventmanagement
    ```
 2. Install the dependencies:
 
