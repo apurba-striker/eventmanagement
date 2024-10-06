@@ -48,7 +48,7 @@ This is a RESTful API for managing events, user participation, and handling wait
     "maxParticipants": 50
   }
   ```
-  ### 2. **Join an Event**
+### 2. **Join an Event**
 
 - **URL**: `/events/join`
 - **Method**: `POST`
@@ -59,7 +59,8 @@ This is a RESTful API for managing events, user participation, and handling wait
     "userId": "user123"
   }
  ```
- ### 3. **Remove a Participant**
+
+### 3. **Remove a Participant**
 
 - **URL**: `/events/remove`
 - **Method**: `POST`
@@ -69,10 +70,9 @@ This is a RESTful API for managing events, user participation, and handling wait
     "eventId": "event-id",
     "userId": "user123"
   }
-
-
+  ```
  
-  ### 4. **View Participants**
+### 4. **View Participants**
 
 - **URL**: `/events/:eventId/participants`
 - **Method**: `GET`
